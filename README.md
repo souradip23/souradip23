@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on myself.
-- 📫 you can find me in instagram. my instagram id is "_the_.soura".
 
 <!---
 souradip23/souradip23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
