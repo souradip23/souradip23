@@ -91,15 +91,6 @@ My background includes Java, JavaScript, C++, Spring Boot, Node.js, React, MySQL
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=souradip23&theme=onedark&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="trophy" />
-</div>
-
-
----
-
 ## Contribution Activity
 
 <div align="center">
