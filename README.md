@@ -111,11 +111,11 @@ My background includes Java, JavaScript, C++, Spring Boot, Node.js, React, MySQL
 ## Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souradip23/souradip23/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/souradip23/souradip23/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/souradip23/souradip23/output/github-contribution-grid-snake.svg">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souradip23/souradip23/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/souradip23/souradip23/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/souradip23/souradip23/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 ---
