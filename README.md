@@ -81,12 +81,12 @@ My background includes Java, JavaScript, C++, Spring Boot, Node.js, React, MySQL
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=souradip23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=souradip23&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=C084FC&currStreakLabel=E5E7EB" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=souradip23&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&count_private=true" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=souradip23&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souradip23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souradip23&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </div>
 
 ---
